@@ -6,6 +6,9 @@ Prior to figuring out how to build AOSP/Cyanogenmod, the only workaround was ins
 
 ## Helpful Resources
 http://forum.xda-developers.com/nexus-4/general/tutorial-build-cyanogenmod-11-vps-t2797703
+
 https://wiki.cyanogenmod.org/w/Build_for_mako
+
 http://projectmaxs.org/documentation/systemapp.html
+
 https://forum.cyanogenmod.org/topic/130518-getting-started-with-cm141-tree/?do=findComment&comment=615018
